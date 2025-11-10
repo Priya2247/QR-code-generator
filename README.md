@@ -6,7 +6,7 @@ It instantly creates QR codes for any text or URL entered by the user.
 ---
 
 ## 🌐 Live Demo
-👉 **Try it here:** [QR Code Generator](https://yourusername.github.io/qr-generator/)
+👉 **Try it here:** [QR Code Generator]( https://priya2247.github.io/QR-code-generator/)
 
 ---
 
